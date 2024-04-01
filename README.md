@@ -10,11 +10,6 @@
 ### :woman_technologist: &nbsp;About Me :
 
 - 👩🏻‍💻 My background is in sofware engineering and application security. I’m currently working as a Security Engineer.
-- 🌱 Love gardening, hiking, zumba, books of J.R.R. Tolkien. Check out [my Goodreads profile](https://www.goodreads.com/user/show/97319525-akzharkyn-duisembiyeva)
-- 🌏 Interersted in learning new cultures and languages
-- 🤓 In my free time I take part in various CTFs with my [team](https://t3rm1n4l3n.github.io)
-- 💕 Mentor other women to start their career in tech
-- 💫 Run [Women in Security - Stockholm/Sweden group](https://linktr.ee/women_in_security_sweden)
 
 ---
 
@@ -25,16 +20,3 @@
 [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=3FBBC4&logo=golang&logoColor=FFFFFF)](https://go.dev)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/)
 [![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=2F5780&logo=kubernetes&logoColor=FFFFFF)](https://www.java.com/)
-
-### My roadmap
-
-#### 2022
-- CEH
-- AWS Cloud Practitioner
-- AWS Solution Architect
-
-#### 2023
-- AWS Certified Security Specialist
-- OSCP
-
-
